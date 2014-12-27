@@ -4,7 +4,7 @@
   <title><![CDATA[Aaron Octopress Blog]]></title>
   <link href="http://chaoyuan899.github.io/atom.xml" rel="self"/>
   <link href="http://chaoyuan899.github.io/"/>
-  <updated>2014-12-27T13:42:36+08:00</updated>
+  <updated>2014-12-27T17:18:19+08:00</updated>
   <id>http://chaoyuan899.github.io/</id>
   <author>
     <name><![CDATA[Aaron]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Miss You]]></title>
+    <link href="http://chaoyuan899.github.io/blog/2014/12/27/miss-you/"/>
+    <updated>2014-12-27T17:13:35+08:00</updated>
+    <id>http://chaoyuan899.github.io/blog/2014/12/27/miss-you</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
