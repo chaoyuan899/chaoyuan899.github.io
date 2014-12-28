@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://chaoyuan899.github.io
-title: Aaron Octopress Blog
-subtitle: A blogging framework for hackers.Ignore previous,…for Aaron.haha~
-author: Aaron
+title: 朝元的博客
+subtitle: 天道不一定酬勤，深度思考比勤奋更重要。
+author: 朝元
 simple_search: https://www.google.com/search
 description:
 
@@ -82,7 +82,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:UA-58019483-1
+google_analytics_tracking_id: UA-58019483-1
 
 # duoshuo comments
 duoshuo_comments: true
