@@ -4,7 +4,7 @@
   <title><![CDATA[朝元的博客]]></title>
   <link href="http://chaoyuan899.github.io/atom.xml" rel="self"/>
   <link href="http://chaoyuan899.github.io/"/>
-  <updated>2014-12-28T14:30:41+08:00</updated>
+  <updated>2014-12-28T22:11:16+08:00</updated>
   <id>http://chaoyuan899.github.io/</id>
   <author>
     <name><![CDATA[朝元]]></name>
@@ -188,6 +188,47 @@ renderMode，控制着在视觉上粒子图片是如何混合的。你可能已�
 <p>首先最重要的一点做产品，而不要做生意。不要只做流量的转换收入，而不做核心用户价值。好的公司都是能够创造真正的长期价值。很多人说，小米手机就是一个会炒作的公司，会做营销的公司。有几个人真正理解，小米是这么具有极客精神的公司？</p>
 
 <p>他把市场上所有资源，想办法提供给用户，最好的价值，最好的性价比，最好的体验。他创造的粉丝，和他的产品分不开。所以守正出奇，是互联网行业创业里面很重要的一个点。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Of lorems and ipsii]]></title>
+    <link href="http://chaoyuan899.github.io/blog/2014/12/23/of-lorems-and-ipsii/"/>
+    <updated>2014-12-23T08:04:23+08:00</updated>
+    <id>http://chaoyuan899.github.io/blog/2014/12/23/of-lorems-and-ipsii</id>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+vero eos et accusam et justo duo<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> dolores et ea rebum. Stet clita kasd gubergren,
+no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+
+<pre><code>def test
+  @answer = 6*9
+  if @answer != 42  # this should never happen
+    raise "Oh no, not again."
+  else
+    print "Don't panic."
+end
+</code></pre>
+
+<p>{:.language-ruby}</p>
+
+<!-- More -->
+
+
+<h2>this is a sample header</h2>
+
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>The footnote <a href="http://www.example.com">content</a>.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
 ]]></content>
   </entry>
   
